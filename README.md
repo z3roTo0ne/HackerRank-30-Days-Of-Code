@@ -1,5 +1,5 @@
 # HackerRank-30-Days-Of-Code
-Solutions to the HakerRank 30 Days of Code Challenge
+Solutions to the HakerRank 30 Days of Code Challenge <br />
 Languages : Java , Python , C , C++ , PHP;
 
 # Content
