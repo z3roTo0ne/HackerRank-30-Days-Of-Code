@@ -8,17 +8,11 @@ echo factorial($n);
  
 ////////
 
-function factorial($number) { 
+function factorial($number) {    
 
-        if ($number < 2) { 
-            
-            return 1; 
-            
-        } else { 
-            
-            return ($number * factorial($number-1));
-            
-        } 
+    ($number < 2) ?  $factorial = 1 : $factorial = ($number * factorial($number-1));  
+
+    return $factorial;
 } 
 
 ?>
