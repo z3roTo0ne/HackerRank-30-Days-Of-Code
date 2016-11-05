@@ -5,7 +5,6 @@ class Student(Person):
         super().__init__(firstName, lastName, idNumber)
         self.scores = scores
 
-        
     def calculate(self):
         
         avg = sum(scores) / len(scores)
