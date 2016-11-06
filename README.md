@@ -1,8 +1,8 @@
 # HackerRank-30-Days-Of-Code
 Solutions to the HakerRank 30 Days of Code Challenge <br />
-Used Languages : Java , Python , C , C++ , PHP <br />
-**By the end of the challenge there should be 6 problems per language**
-
+Used Languages : Java , Python , C , C++ , PHP <br /><br />
+*By the end of the challenge there should be 6 problems per language*
+<br /><br />
 # Content
 
 Day 0 : Hello World <br />
