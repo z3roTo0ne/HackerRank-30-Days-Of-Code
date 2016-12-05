@@ -1,7 +1,7 @@
 Node* insert(Node *head,int data) {
 
-    Node * newItem = malloc(sizeof(Node));
-    Node * tail = head;
+    Node *newItem = malloc(sizeof(Node));
+    Node *tail = head;
     
     newItem->data = data;
     newItem->next = NULL;
