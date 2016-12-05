@@ -18,9 +18,6 @@ class Calculator {
              }
              
              return result;
-             
-         
-
     }
 };
 
