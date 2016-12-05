@@ -1,7 +1,7 @@
 class Student(Person):
 
     def __init__(self, firstName, lastName, idNumber, scores):
-        
+         
         super().__init__(firstName, lastName, idNumber)
         self.scores = scores
 
