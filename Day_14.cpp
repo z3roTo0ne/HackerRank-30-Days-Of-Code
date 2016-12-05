@@ -27,7 +27,7 @@
                     
                     max = differences;
                 }
-                
+               
             }
            
         }
