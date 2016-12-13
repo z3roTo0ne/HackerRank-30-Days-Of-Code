@@ -3,6 +3,12 @@ Solutions to the HakerRank 30 Days of Code Challenge <br />
 Used Languages : Java , Python , C , C++ , PHP <br /><br />
 *By the end of the challenge there should be 6 problems per language*
 <br /><br />
+**Python : ** 1,2,12,16,23,26<br />
+**JAVA : ** 4,8,10,18,21,27<br />
+**C++ :  ** 0,6,11,14,17,19<br />
+**PHP : ** 3,9,13,22,25,28<br />
+**C : ** 5,7,15,20,24,29<br />
+
 # Content
 
 Day 0 : Hello World <br />
