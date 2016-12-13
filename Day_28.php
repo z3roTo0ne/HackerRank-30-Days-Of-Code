@@ -10,7 +10,7 @@ for($a0 = 0; $a0 < $N; $a0++){
     fscanf($handle,"%s %s",$firstName,$emailID);
     
     if(endsWith($emailID, "@gmail.com")){
-        
+         
         $emails[$emailID] = $firstName;
         
     }
